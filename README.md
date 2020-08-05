@@ -1,5 +1,6 @@
 # tictactoe
 Dinamic TicTacToe in Assembly
+
 Resumo:
 O programa proposto tem como objetivo replicar o tradicional “Jogo do Galo” com o
 número de colunas e linhas escolhidas pelo utilizador .
